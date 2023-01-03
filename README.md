@@ -11,5 +11,5 @@ NA
 
 You can see the results on console when you inspect the website. 
 
-  md ![Screenshot](assets/images/Screenshot.png)
+![Screenshot](assets/images/Screenshot.png)
    

@@ -11,5 +11,5 @@ NA
 
 You can see the results on console when you inspect the website. 
 
-![Screenshot](assets/images/Screenshot.png)
+ [Website screenshot](assets/Screenshot.png);
    

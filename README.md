@@ -10,6 +10,6 @@ NA
 ## Usage
 
 You can see the results on console when you inspect the website. 
-
+Website link https://mildajh.github.io/Console-finances/
  [Website screenshot](assets/Screenshot.png);
    
